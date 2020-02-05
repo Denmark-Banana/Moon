@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moon/static/css/main.351b1c69.chunk.css",
+    "main.js": "/moon/static/js/main.e444b413.chunk.js",
+    "main.js.map": "/moon/static/js/main.e444b413.chunk.js.map",
+    "runtime-main.js": "/moon/static/js/runtime-main.296d28f0.js",
+    "runtime-main.js.map": "/moon/static/js/runtime-main.296d28f0.js.map",
+    "static/js/2.74bf66c8.chunk.js": "/moon/static/js/2.74bf66c8.chunk.js",
+    "static/js/2.74bf66c8.chunk.js.map": "/moon/static/js/2.74bf66c8.chunk.js.map",
+    "index.html": "/moon/index.html",
+    "precache-manifest.8f2465c0b10784231ac3a42494435932.js": "/moon/precache-manifest.8f2465c0b10784231ac3a42494435932.js",
+    "service-worker.js": "/moon/service-worker.js",
+    "static/css/main.351b1c69.chunk.css.map": "/moon/static/css/main.351b1c69.chunk.css.map",
+    "static/js/2.74bf66c8.chunk.js.LICENSE.txt": "/moon/static/js/2.74bf66c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296d28f0.js",
+    "static/js/2.74bf66c8.chunk.js",
+    "static/css/main.351b1c69.chunk.css",
+    "static/js/main.e444b413.chunk.js"
+  ]
+}
